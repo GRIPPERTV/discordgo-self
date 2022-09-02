@@ -1,0 +1,11 @@
+# Discontinued
+This repository is no longer being updated, but the code still works
+
+# DiscordGo
+This repository is a "fork" of github.com/bwmarrin/discordgo, but edited for user account
+
+# Changes
+Just created one function (UserProfile) and changed discordgo to discordgoself
+
+# Discord Client
+You can use this project to create a client entirely for users, but not for a full client
